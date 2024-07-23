@@ -8,7 +8,7 @@ userbio: 'Typo in...' # Profile description (Required)
 
 linkedin_login: '' # LinkedIn login (Optional)
 telegram_login: 'dxrkyvo1d' # Telegram login (Optional)
-discords_login: 'dxrkyvo1d' # DiscordS login (Optional)
+discords_login: '' # DiscordS login (Optional)
 steam_login: 'dxrkyblood' # SteamCommunity ID (Optional)
 instagram_login: 'dxrkyvo1d' # Instagram login (Optional)
 twitter_login: '' # Twitter login (Optional)
