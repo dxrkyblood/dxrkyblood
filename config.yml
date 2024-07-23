@@ -1,0 +1,19 @@
+#
+#  Configuration file for BitWave Bio
+#     https://github.com/BitWaveOrg
+#
+
+user_firstname: 'dxrkyvo1d' # Username shown on profile (Required)
+userbio: 'Typo in...' # Profile description (Required)
+
+linkedin_login: '' # LinkedIn login (Optional)
+telegram_login: 'dxrkyvo1d' # Telegram login (Optional)
+discords_login: 'dxrkyvo1d' # DiscordS login (Optional)
+steam_login: 'dxrkyblood' # SteamCommunity ID (Optional)
+instagram_login: 'dxrkyvo1d' # Instagram login (Optional)
+twitter_login: '' # Twitter login (Optional)
+website_url: '' # Website url (Optional)
+cv_url: '' # CV URL (Optional)
+
+profile_theme: 'dark' # Profile style
+profile_color: 'rgb(54,0,172)' # Profile border color
